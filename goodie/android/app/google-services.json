@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "860023632486",
+    "firebase_url": "https://goodie-f80ce.firebaseio.com",
+    "project_id": "goodie-f80ce",
+    "storage_bucket": "goodie-f80ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860023632486:android:66bdf2136d2969860e33a7",
+        "android_client_info": {
+          "package_name": "com.dsc_jbnu.goodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860023632486-opfuh94dlc9b65jdh4u5c2rjdl2722ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHHRdL-iYJ9Cxk5KztFT99jNHc5wdCFQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860023632486-opfuh94dlc9b65jdh4u5c2rjdl2722ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
